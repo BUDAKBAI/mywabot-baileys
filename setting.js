@@ -2,7 +2,7 @@
 pengaturan lainnya ada di db.setting. anda bisa gunakan command owner
 */
 export default {
-    owner: ["6285157489446"],
+    owner: ["60175011592"],
     typedb: "mongo", // use json,mongo
 
     /* database setting */
